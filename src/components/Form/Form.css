@@ -1,0 +1,50 @@
+.Form {
+  width: 80%;
+  padding: 20px;
+  margin: auto;
+  margin-top: 50px;
+  color: white;
+  background-color: #4197d9;
+  font-family: monospace;
+}
+.Form h1 {
+  font-size: 40px;
+}
+.Form input,
+.Form button {
+  min-width: 100%;
+  display: block;
+  margin: auto;
+  margin-bottom: 10px;
+  border: none;
+  max-height: 40px;
+  height: 40px;
+  font-size: 25px;
+  background-color: rgba(0, 0, 0, 0.4);
+  color: white;
+  transition: 0.5s ease-in-out;
+}
+
+.Form input::-webkit-input-placeholder {
+  /* Edge */
+  color: rgba(255, 255, 255, 0.45);
+}
+
+.Form input:focus {
+  outline: none;
+}
+
+.Form button:focus {
+  outline: #fff auto 1px;
+}
+
+.Form input {
+  padding-left: 5px;
+}
+.Form button {
+  cursor: pointer;
+}
+.Form button:hover,
+.Form input:hover {
+  background-color: rgba(0, 0, 0, 1);
+}

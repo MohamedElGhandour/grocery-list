@@ -1,0 +1,62 @@
+.Items {
+  width: 80%;
+  padding: 20px;
+  margin: auto;
+  margin-top: 50px;
+  color: white;
+  background-color: #41d9ca;
+  font-family: monospace;
+}
+.Items h1 {
+  font-size: 40px;
+}
+.Items .list {
+  width: 100%;
+  margin: auto;
+}
+.Items .List div {
+  min-width: 100%;
+  background-color: rgba(0, 0, 0, 0.4);
+  margin: 5px auto;
+  padding: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transition: 0.5s ease-in-out;
+  max-height: 40px;
+  height: 40px;
+  font-size: 20px;
+}
+.Items .List div:hover {
+  background-color: rgba(0, 0, 0, 1);
+}
+.Items .List span {
+}
+.Items .List img {
+  width: 30px;
+  cursor: pointer;
+}
+.Items button {
+  min-width: 100%;
+  display: block;
+  margin: auto;
+  margin-bottom: 10px;
+  margin-top: 20px;
+  border: none;
+  max-height: 50px;
+  height: 50px;
+  font-size: 25px;
+  background-color: rgba(0, 0, 0, 0.4);
+  color: white;
+  cursor: pointer;
+  transition: 0.5s ease-in-out;
+}
+
+.Items button:focus {
+  outline: #fff auto 1px;
+}
+
+.Items button:hover,
+.Items .List div:hover {
+  background-color: rgba(0, 0, 0, 1);
+}
