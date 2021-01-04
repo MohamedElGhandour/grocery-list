@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mohamedelghandour.github.io/grocery-list/static/css/main.89e1f217.chunk.css",
+    "main.js": "/mohamedelghandour.github.io/grocery-list/static/js/main.de07b60e.chunk.js",
+    "main.js.map": "/mohamedelghandour.github.io/grocery-list/static/js/main.de07b60e.chunk.js.map",
+    "runtime-main.js": "/mohamedelghandour.github.io/grocery-list/static/js/runtime-main.ee893c45.js",
+    "runtime-main.js.map": "/mohamedelghandour.github.io/grocery-list/static/js/runtime-main.ee893c45.js.map",
+    "static/js/2.f7345030.chunk.js": "/mohamedelghandour.github.io/grocery-list/static/js/2.f7345030.chunk.js",
+    "static/js/2.f7345030.chunk.js.map": "/mohamedelghandour.github.io/grocery-list/static/js/2.f7345030.chunk.js.map",
+    "static/js/3.8ab9e75f.chunk.js": "/mohamedelghandour.github.io/grocery-list/static/js/3.8ab9e75f.chunk.js",
+    "static/js/3.8ab9e75f.chunk.js.map": "/mohamedelghandour.github.io/grocery-list/static/js/3.8ab9e75f.chunk.js.map",
+    "index.html": "/mohamedelghandour.github.io/grocery-list/index.html",
+    "static/css/main.89e1f217.chunk.css.map": "/mohamedelghandour.github.io/grocery-list/static/css/main.89e1f217.chunk.css.map",
+    "static/js/2.f7345030.chunk.js.LICENSE.txt": "/mohamedelghandour.github.io/grocery-list/static/js/2.f7345030.chunk.js.LICENSE.txt",
+    "static/media/trash.5cd449da.svg": "/mohamedelghandour.github.io/grocery-list/static/media/trash.5cd449da.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee893c45.js",
+    "static/js/2.f7345030.chunk.js",
+    "static/css/main.89e1f217.chunk.css",
+    "static/js/main.de07b60e.chunk.js"
+  ]
+}
